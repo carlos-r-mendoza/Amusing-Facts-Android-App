@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Amusing Facts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_snapple_facts">Snapple Facts</string>
+    <string name="titleSnappleFacts">“Real Facts”</string>
+    <string name="defaultSnappleText">These are “Real Facts” from Snapple!</string>
+    <string name="showNewFactButton">Show New Fact</string>
+    <string name="title_activity_history_facts">HistoryFactsActivity</string>
+    <string name="titleHistoryFacts">History Facts</string>
+    <string name="defaultHistoryText">These are History Facts!</string>
+    <string name="title_activity_sports_facts">Sports Facts Activity</string>
+    <string name="titleSportsFacts">Sports Facts</string>
+    <string name="defaultSportsText">These are Sports Facts!</string>
+    <string name="title_activity_animal_facts">AnimalFactsActivity</string>
+    <string name="titleAnimalFacts">Animal Facts</string>
+    <string name="defaultAnimalText">These are Animal Facts!</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="carlosrmendoza.com.amusingfacts" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="carlosrmendoza.com.amusingfacts.AmusingFactsActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" > <!-- sets portrait orientation for AmusingFactsActivity -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="carlosrmendoza.com.amusingfacts.SnappleFactsActivity"
+            android:label="@string/title_activity_snapple_facts"
+            android:configChanges="orientation|screenSize" > <!-- prevents from data reload on rotation-->
+        </activity>
+        <activity
+            android:name="carlosrmendoza.com.amusingfacts.HistoryFactsActivity"
+            android:label="@string/title_activity_history_facts"
+            android:configChanges="orientation|screenSize" > <!-- prevents from data reload on rotation-->
+        </activity>
+        <activity
+            android:name="carlosrmendoza.com.amusingfacts.SportsFactsActivity"
+            android:label="@string/title_activity_sports_facts"
+            android:configChanges="orientation|screenSize" > <!-- prevents from data reload on rotation-->
+        </activity>
+        <activity
+            android:name="carlosrmendoza.com.amusingfacts.AnimalFactsActivity"
+            android:label="@string/title_activity_animal_facts"
+            android:configChanges="orientation|screenSize" > <!-- prevents from data reload on rotation-->
+        </activity>
+    </application>
+
+</manifest>

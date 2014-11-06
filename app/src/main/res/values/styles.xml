@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <drawable name="button_pressed">#ffff8800</drawable>
+    <drawable name="button_focused">#44000000</drawable>
+    <drawable name="button_default">#44000000</drawable>
+
+    <drawable name="button_pressed2">#66000000</drawable>
+    <drawable name="button_focused2">#66000000</drawable>
+    <drawable name="button_default2">#66000000</drawable>
+
+
+</resources>

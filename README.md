@@ -17,5 +17,6 @@ Animal Facts - animalfacts.net, sciencekids.co.nz
 Follow the app developer on twitter at https://twitter.com/carlosrmendoza
 Learn more about the app developer at http://www.carlosrmendoza.com
 
+
 **Algorithms**
 You will find alogorithms to randomize facts and background without repeats

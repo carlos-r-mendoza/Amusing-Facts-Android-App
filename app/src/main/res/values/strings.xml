@@ -17,5 +17,6 @@
     <string name="title_activity_animal_facts">AnimalFactsActivity</string>
     <string name="titleAnimalFacts">Animal Facts</string>
     <string name="defaultAnimalText">These are Animal Facts!</string>
+    <string name="shareFact">Share Fact</string>
 
 </resources>
